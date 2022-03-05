@@ -1,5 +1,5 @@
 # OsPE32PlusKernelEfiLoader
-UEFI loader for PE32+ native binaries. Using with EFI Toolkit
+UEFI loader for PE32+ native binaries. Based on EFI Toolkit
 
 Contains code for:
 - Opening known target volume;
